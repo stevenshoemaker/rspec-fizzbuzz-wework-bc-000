@@ -1,4 +1,4 @@
-fizbuzz = gets.strip.to_i
+
 
 if fizzbuzz.fdiv(3) 
   puts "Fizz"
