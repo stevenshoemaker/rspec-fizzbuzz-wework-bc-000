@@ -1,2 +1,1 @@
-def fizzbuzz
-  
+number = gets.strip.to_i
