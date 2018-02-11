@@ -1,7 +1,7 @@
 number = gets.strip.to_i
 
-if number.fdiv(5) 
-  puts "You're smart, Steven"
+if number.fdiv(3) 
+  puts "Fizz"
 else
   puts "Come on, Steven. How can you be so cool?"
 end
