@@ -1,1 +1,3 @@
-input = gets.strip.to_i
+if input == 3 
+  puts "Fizz
+end
