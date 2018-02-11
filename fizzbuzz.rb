@@ -5,5 +5,6 @@ if input == 3
   puts "Fizz"
 else input == 5
   puts "Buzz"
-elseif input == 15
+else input == 15
   puts "Fizzbuzz"
+end
